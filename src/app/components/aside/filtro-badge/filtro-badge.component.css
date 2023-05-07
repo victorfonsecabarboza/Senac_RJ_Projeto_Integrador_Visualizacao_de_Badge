@@ -1,0 +1,13 @@
+.texto {
+    position: absolute;
+    font-size: 20px;
+    top: 10%;
+    left: 10%;
+}
+
+.filtro-badges {
+    position: absolute;
+    left: 88%;
+    top: 10%;
+    cursor: pointer;
+}

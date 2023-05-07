@@ -1,0 +1,13 @@
+.spacer{
+    flex: 1 1 auto;
+}
+
+.p-button-label {
+    font-weight: 500;
+    color: #fff;
+    background: #3B82F6;
+    padding: 0.75rem 1.25rem;
+    font-size: 1rem;
+    border-radius: 6px;
+    cursor: pointer;
+}
